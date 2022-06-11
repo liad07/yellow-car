@@ -1,0 +1,38 @@
+*,body{
+    background-color: #1b1e21;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+input{
+    font-size:30px;
+    text-align: center;
+
+
+}
+img {
+    margin-bottom: -35px;
+    z-index: 1;
+
+}
+input{
+    width: 360px;
+    height: 104px;
+    border: none;
+    background: #ffd71b;
+    color: #000000;
+    border-radius: 0.25rem;
+}
+.x{
+    height: 60%;
+}
+svg{
+    z-index: 1;
+}
+.b,span{
+    padding-top: 15px;
+    color: white;
+    background-color: #1b1e21;
+    z-index:-999;
+
+}
